@@ -126,21 +126,4 @@ public class TestActivityTracker {
     }
 
 
-
-
-    // public void testRow1()
-    // {
-    //     PrintStream originalOut = System.out;
-    //     ByteArrayOutputStream bos = new ByteArrayOutputStream();
-    //     System.setOut(new PrintStream(bos));
-
-    //     // action
-    //     Hello.main(null);
-
-    //     // assertion
-    //     assertEquals("Hello world!\n", bos.toString());
-
-    //     // undo the binding in System
-    //     System.setOut(originalOut);
-    // }
 }

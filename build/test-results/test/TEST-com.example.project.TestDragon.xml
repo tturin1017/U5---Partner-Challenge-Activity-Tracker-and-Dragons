@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.project.TestDragon" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-10-22T14:55:58" hostname="codespaces-fa1d95" time="0.113">
+  <properties/>
+  <testcase name="testRow11()" classname="com.example.project.TestDragon" time="0.084"/>
+  <testcase name="testRow2()" classname="com.example.project.TestDragon" time="0.003"/>
+  <testcase name="testRow3()" classname="com.example.project.TestDragon" time="0.001"/>
+  <testcase name="testRow4()" classname="com.example.project.TestDragon" time="0.001"/>
+  <testcase name="testRow5()" classname="com.example.project.TestDragon" time="0.002"/>
+  <testcase name="testRow6()" classname="com.example.project.TestDragon" time="0.001"/>
+  <testcase name="testRow7()" classname="com.example.project.TestDragon" time="0.001"/>
+  <testcase name="testRow8()" classname="com.example.project.TestDragon" time="0.003"/>
+  <testcase name="testRow9()" classname="com.example.project.TestDragon" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
