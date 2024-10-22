@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.project.TestDragon" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-10-22T15:32:33" hostname="codespaces-fa1d95" time="0.109">
+<testsuite name="com.example.project.TestDragon" tests="21" skipped="0" failures="0" errors="0" timestamp="2024-10-22T16:02:22" hostname="codespaces-fa1d95" time="0.311">
   <properties/>
-  <testcase name="testRow11()" classname="com.example.project.TestDragon" time="0.071"/>
-  <testcase name="testRow12()" classname="com.example.project.TestDragon" time="0.001"/>
-  <testcase name="testRow2()" classname="com.example.project.TestDragon" time="0.002"/>
-  <testcase name="testRow3()" classname="com.example.project.TestDragon" time="0.001"/>
-  <testcase name="testRow4()" classname="com.example.project.TestDragon" time="0.001"/>
+  <testcase name="testRow11()" classname="com.example.project.TestDragon" time="0.146"/>
+  <testcase name="testRow12()" classname="com.example.project.TestDragon" time="0.003"/>
+  <testcase name="testRow13()" classname="com.example.project.TestDragon" time="0.01"/>
+  <testcase name="testRow14()" classname="com.example.project.TestDragon" time="0.002"/>
+  <testcase name="testRow15()" classname="com.example.project.TestDragon" time="0.007"/>
+  <testcase name="testRow16()" classname="com.example.project.TestDragon" time="0.011"/>
+  <testcase name="testRow17()" classname="com.example.project.TestDragon" time="0.001"/>
+  <testcase name="testRow18()" classname="com.example.project.TestDragon" time="0.004"/>
+  <testcase name="testRow19()" classname="com.example.project.TestDragon" time="0.004"/>
+  <testcase name="testRow20()" classname="com.example.project.TestDragon" time="0.001"/>
+  <testcase name="testRow21()" classname="com.example.project.TestDragon" time="0.006"/>
+  <testcase name="testRow22()" classname="com.example.project.TestDragon" time="0.004"/>
+  <testcase name="testRow23()" classname="com.example.project.TestDragon" time="0.037"/>
+  <testcase name="testRow2()" classname="com.example.project.TestDragon" time="0.004"/>
+  <testcase name="testRow3()" classname="com.example.project.TestDragon" time="0.003"/>
+  <testcase name="testRow4()" classname="com.example.project.TestDragon" time="0.0"/>
   <testcase name="testRow5()" classname="com.example.project.TestDragon" time="0.001"/>
   <testcase name="testRow6()" classname="com.example.project.TestDragon" time="0.001"/>
-  <testcase name="testRow7()" classname="com.example.project.TestDragon" time="0.009"/>
+  <testcase name="testRow7()" classname="com.example.project.TestDragon" time="0.001"/>
   <testcase name="testRow8()" classname="com.example.project.TestDragon" time="0.001"/>
-  <testcase name="testRow9()" classname="com.example.project.TestDragon" time="0.004"/>
+  <testcase name="testRow9()" classname="com.example.project.TestDragon" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
